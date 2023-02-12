@@ -263,18 +263,18 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Muhammed Abdulrahaman Adinoyi</summary>
+    <summary>Rabiu Olajide</summary>
     <ul>
-    <li><a href="https://www.github.com/Adinoyi03">Github</a></li>
+    <li><a href="https://www.github.com/Jizzykic">Github</a></li>
     
-    <li><a href="mailto:adinoyi360@gmail.com">e-mail</a></li>
+    <li><a href="mailto:jizzykic@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Ahamefule Kenneth</summary>
+    <summary>Daniel Odoyo</summary>
     <ul>
-    <li><a href="https://www.github.com/Kenobinna">Github</a></li>
-    <li><a href="mailto:obinnakay92@gmail.com">E-mail</a></li>
+    <li><a href="https://www.github.com/Odoyo7">Github</a></li>
+    <li><a href="mailto:odoyo@gmail.com">E-mail</a></li>
     </ul>
    
 </details>
